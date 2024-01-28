@@ -6,7 +6,7 @@ RedSpruceOS is a linux distribution based on the latest Debian 12/Bookworm: 12.4
 ![redsprucetree](https://github.com/citizen321/RedSpruceOS/assets/104372746/4debbd47-1785-473b-ae78-a3c520de2df9)
 
 # Why use RedSpruceOS?
-RedSpruceOS offers a debian experience ready to use after the install. No more bloat, no more searching on how to install multimedia drivers.
+RedSpruceOS offers a simple calamares install with a Debian experience ready to use after the installation. No more bloat, no more searching on how to install multimedia drivers.
 
 
 
