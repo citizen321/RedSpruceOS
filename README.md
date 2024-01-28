@@ -1,2 +1,2 @@
 # RedSpruceOS
-the official RedSpruceOS github page
+The official RedSpruceOS github page
